@@ -16,11 +16,18 @@ This repository documents my journey to becoming an **AI & Machine Learning Engi
 * 📦 Model Deployment
 * 📝 Notes & Practice Notebooks
 
-## 📂 Current Contents
-
-* ✅ Python Tensors (PyTorch)
-* ✅ End-to-End Toy Machine Learning Project
-
+Machine-Learning/
+│
+├──  01_Python Tensors.ipynb
+│──  01_end-to-end_toy_Project.ipynb
+│   
+├── 📁 Data Gathering
+│   ├── 01_Work_With_CSV.ipynb
+│   ├── 02_Work_With_Json_&_SQL.ipynb
+│   ├── 03_Work_with_API.ipynb
+│   └── 04_Work_With_Web_scrapping.ipynb
+│
+└── More notebooks coming soon...
 > New notebooks, projects, and experiments will be added regularly as I continue learning.
 
 ## 🛠️ Tech Stack
