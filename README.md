@@ -15,7 +15,7 @@ This repository documents my journey to becoming an **AI & Machine Learning Engi
 * 🚀 End-to-End ML Projects
 * 📦 Model Deployment
 * 📝 Notes & Practice Notebooks
-
+----
 Machine-Learning/
 │
 ├──  01_Python Tensors.ipynb
@@ -29,7 +29,7 @@ Machine-Learning/
 │
 └── More notebooks coming soon...
 > New notebooks, projects, and experiments will be added regularly as I continue learning.
-
+----
 ## 🛠️ Tech Stack
 
 * Python
