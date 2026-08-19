@@ -1,0 +1,11 @@
+id,name,age,department,salary
+1,Ali,25,IT,50000
+2,Ahmed,27,HR,45000
+3,Sara,26,Finance,60000
+4,Ayesha,28,IT,52000,ExtraColumn
+5,Usman,24,Sales,48000
+6,Zain
+7,Hina,29,Marketing,55000
+8,Bilal,30,Finance,62000
+9,Fatima,31,HR,58000,Wrong,Data
+10,Hamza,26,IT,53000
