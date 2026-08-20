@@ -1,6 +1,4 @@
-# 📁 Repository Structure — `Machine-learning-for-Ai-ML-Engineering`
-
-**Repo:** [zain1234-coder/Machine-learning-for-Ai-ML-Engineering](https://github.com/zain1234-coder/Machine-learning-for-Ai-ML-Engineering)
+# 📁`Machine-learning-for-Ai-ML-Engineerng
 
 > A hands-on collection of Machine Learning concepts, data preprocessing, feature engineering, model building, evaluation, and practical projects focused on AI/ML Engineering.
 
@@ -94,48 +92,7 @@ Machine-learning-for-Ai-ML-Engineering-main/
 │   └── world.sql
 └── README.md
 ```
-
----
-
-## 📂 Folder-by-Folder Breakdown
-
-### `01_Python/`
-Intro Python/tensor fundamentals used as a warm-up before the ML content.
-- `01_Tensors.ipynb` — working with tensors.
-
-### `02_project/`
-A first end-to-end toy ML project (placement prediction).
-- `01_end_to_end_toy_project.ipynb` — full pipeline walkthrough.
-- `model.pkl` — trained/pickled model artifact.
-- `placement.csv` — dataset used for the project.
-
-### `03_DataUnderstanding/`
-Exploratory Data Analysis (EDA) notebooks.
-- `01_Data_Understanding.ipynb` — initial data understanding.
-- `02_EDA_Univriate.ipynb` — univariate analysis.
-- `03_EDA_Bivariate.ipynb` — bivariate analysis.
-- `04_pandas_profiling.ipynb` — automated profiling report generation.
-- `Output.html` — exported profiling report.
-- `train.csv` — dataset used across the EDA notebooks.
-
-### `04_Feature Engineering/`
-The largest section — covers the full feature engineering toolkit, broken into sub-topics:
-
-| Subfolder | Focus |
-|---|---|
-| `Column_Transformer/` | Using `ColumnTransformer` to apply different preprocessing to different columns. |
-| `Encoding Categorical Data/` | Ordinal encoding & One-Hot Encoding (OHE). |
-| `Encoding_Numerical/` | Binning and binarization of numeric features. |
-| `Feature Scaling/` | Standardization and normalization techniques. |
-| `Handling Mixed Data/` | Mixed-type columns, including a nested `Handling_Date_Time/` subfolder for date/time feature extraction. |
-| `Handling_missing_values/` | Complete-case analysis, numerical imputation, arbitrary-value imputation, and end-of-distribution imputation. |
-| `Mathematical Transformation/` | Function transformers and power transforms. |
-| `Proj-without_pipeline/` | A manual (non-pipeline) preprocessing project, with a `models/` folder storing individual pickled encoders/imputers/classifier. |
-| `sklearn-Pipelne/` | Rebuilding the same workflow using `sklearn.pipeline.Pipeline`, with predictions via a saved pipeline (`pipe.pkl`). |
-
-### `0_3_Data Gathering/`
-Notebooks on collecting data from various sources.
-- `01_Work_With_CSV.ipynb` — reading/writing CSV files.
+  
 - `02_Work_With_Json_&_SQL.ipynb` — working with JSON and SQL data.
 - `03_Work_with_API.ipynb` — pulling data from APIs.
 - `04_Work_With_Web_scrapping.ipynb` — web scraping basics.
